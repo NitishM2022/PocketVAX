@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81390113105",
+    "firebase_url": "https://pocket-vax.firebaseio.com",
+    "project_id": "pocket-vax",
+    "storage_bucket": "pocket-vax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81390113105:android:cca58912bc586ff0b88370",
+        "android_client_info": {
+          "package_name": "com.pocketvax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81390113105-es3e3lplfsiqo1biddvc4m24shmc0vge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMT3Amk9AZnhuGwfJ8QnMh7GqLsOup8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81390113105-es3e3lplfsiqo1biddvc4m24shmc0vge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
